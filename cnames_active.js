@@ -2160,6 +2160,7 @@ var cnames_active = {
   "msolers": "msolers.github.io/bloghugo",
   "msp430": "mazko.github.io/MSP430.js",
   "mtproto-core": "alik0211.github.io/mtproto-core-website",
+  "mts-nurul-ikhwan": "falachal07-alt.github.io",
   "mubaidr": "mubaidr.github.io",
   "muc": "jsmuc.github.io",
   "muiplayer": "muiplayer.github.io",
